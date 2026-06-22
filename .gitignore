@@ -11,6 +11,35 @@
 *.sln.docstates
 *.env
 
+
+# Reports
+*.html
+*.csv
+*.json
+
+# Evidence
+*.E01
+*.Ex01
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+
+# Database Artifacts
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+
+# Output
+Output/
+Reports/
+CaseData/
+Temp/
+
+# Logs
+*.log
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
